@@ -71,3 +71,4 @@ module.exports = function startAntiAfk(bot, settings) {
     if (interval) clearInterval(interval);
   });
 };
+
